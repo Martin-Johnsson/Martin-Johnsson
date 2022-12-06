@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello!👋 Happy to see that you're visiting my Github! 
 
-<!--
-**Martin-Johnsson/Martin-Johnsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First of all, welcome! Allow me to introduce myself, my name is Martin Johnsson and I'm currently studying my second year of a two year-long education for software developer, graduating in the end of May. 
+Right now in my education I'm attending an almost three month long internship at Knowit Malmoe where I get to practice and learn more programming.
 
-Here are some ideas to get you started:
+Feel free to contact me if you're interested in collaborating, skills exhange or you find me interesting for any sort of opportunity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Best regards,
+
+Martin.
+
+https://www.linkedin.com/in/martin-johnsson-2993b4206
+
+maartinjohnsson@gmail.com

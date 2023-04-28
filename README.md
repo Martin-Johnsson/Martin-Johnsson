@@ -2,8 +2,8 @@
 
 First of all, welcome! 
 
-Allow me to introduce myself. My name is Martin Johnsson and I'm currently studying my second year of a two year-long education for software developer, graduating in the end of May. 
-Right now, in my education, I'm attending an almost three month long internship at Knowit Malmoe where I get to practice and learn more programming.
+Allow me to introduce myself. My name is Martin Johnsson and I'm currently studying my second year of a two year-long education for Front End Developer, graduating in the end of May 2023. 
+Right now,I'm attending an almost three month long internship at Smart Refill in Helsingborg where I get to practice and develop my skills in React, Redux, CSS-IN-JS, and Scrum.
 
 Feel free to contact me if you're interested in collaborating, skills exhange or you find me interesting for any sort of opportunity.
 

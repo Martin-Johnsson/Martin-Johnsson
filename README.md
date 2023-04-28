@@ -11,6 +11,6 @@ Best regards,
 
 Martin.
 
-https://www.linkedin.com/in/martin-johnsson-2993b4206
+https://www.linkedin.com/in/martin-ola-andreas-johnsson/
 
 maartinjohnsson@gmail.com

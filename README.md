@@ -1,10 +1,10 @@
 # Hello!👋 Happy to see that you're visiting my Github! 
 
-First of all, welcome! 
+Welcome!
 
 My name is Martin Johnsson and I'm a Front End Developer based in Lund, Sweden. 
 
-Feel free to contact me if you're interested in collaborating, skills exhange or you find me interesting for any sort of opportunity.
+Feel free to contact me if you're interested in collaborating, skills exhange or you find me interesting for an opportunity.
 
 Best regards,
 
